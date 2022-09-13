@@ -36,3 +36,7 @@ If the selected directory, or any of its sub-directories contains `.fbx` files, 
 To add a model from the *model browser* to your map, click on the *green cube icon* **(4)**. The `.fbx` file and its `.png` texture file are copied into the PH2 map directory. If you are in the level editor of Perfect Heist 2 for the selected map, the custom model should be available instantly.
 
 To delete a custom model from a map, press the *trash icon* **(5)** in the map model browser. Note that this will delete the `.fbx` and `.png` files *inside the map directory*. The files in your selected model directory are not modified in any way.
+
+### FBX Model Files and Textures
+
+If you have missing textures or other file related questions, check out [this section](https://soulka.github.io/ph2-model-inspector-docs/files-and-textures).
