@@ -17,7 +17,7 @@ But you can set shared textures manually for a whole directory to make it easier
 
 ## Setting Textures
 
-<img src="https://github.com/SoulKa/ph2-model-inspector-docs/blob/main/screenshots/set-texture?raw=true" width="800">
+<img src="https://github.com/SoulKa/ph2-model-inspector-docs/blob/main/screenshots/set-texture.png?raw=true" width="350">
 
 You can set or change the texture of a single model or of all models within a directory (and its subdirectories). To do this, right click on it in the model browser **(1)** and select "set texture" in the context menu **(2)**. This will open the following file browser:
 
