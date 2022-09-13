@@ -13,6 +13,10 @@ The Perfect Heist 2 Model Inspector is a tool to inspect FBX 3D-Models and copy 
 - Minimalistic design
 - Copy FBX models into a custom PH2 map with just one click
 
+## Usage
+
+Check out the [usage](https://soulka.github.io/ph2-model-inspector-docs/usage) section. It contains detailed information on how to use the *PH2 Model Inspector*.
+
 ## How to run
 
 ### Option 1: With precompiled Windows executable
@@ -37,10 +41,6 @@ Go to the [latest release](https://github.com/SoulKa/ph2-model-inspector-server/
 
 ### Option 2 and 3: Running manually
 You need to install [Node.js](https://nodejs.org/) with npm.
-
-## Usage
-
-Check out the [usage](https://soulka.github.io/ph2-model-inspector-docs/usage) section. It contains detailed information on how to use the *PH2 Model Inspector*.
 
 ## Contributing
 
