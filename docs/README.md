@@ -1,5 +1,3 @@
-<head><link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/SoulKa/ph2-model-inspector-client/main/favicon/favicon.ico"></head>
-
 # PH2 Model Inspector
 
 <img src="https://github.com/SoulKa/ph2-model-inspector-docs/blob/main/screenshots/model-browser.png?raw=true" width="800">
@@ -19,7 +17,7 @@ The Perfect Heist 2 Model Inspector is a tool to inspect FBX 3D-Models and copy 
 
 ### Option 1: With precompiled Windows executable
 
-Go to the [latest release](https://github.com/SoulKa/ph2-model-inspector-server/releases/latest) from this repository and download `PH2.Model.Inspector.exe`. This executable is built with [nexe](https://github.com/nexe/nexe) and includes all dependencies.
+Go to the [latest release](https://github.com/SoulKa/ph2-model-inspector-server/releases/latest) from the [server repository](https://github.com/SoulKa/ph2-model-inspector-server) and download `PH2.Model.Inspector.exe`. This executable is built with [nexe](https://github.com/nexe/nexe) and includes all dependencies.
 
 ### Option 2: Run server source directly with prebuilt webUI
 
@@ -38,7 +36,11 @@ Go to the [latest release](https://github.com/SoulKa/ph2-model-inspector-server/
 **None**. The executable includes a Node.js binary, as well as the server code and the compiled webUI. It does not need any installation, just run it
 
 ### Option 2 and 3: Running manually
-You need to install [Node.js](https://nodejs.org/) with npm
+You need to install [Node.js](https://nodejs.org/) with npm.
+
+## Usage
+
+Check out the [usage](https://soulka.github.io/ph2-model-inspector-docs/usage) section. It contains detailed information on how to use the *PH2 Model Inspector*.
 
 ## Contributing
 
